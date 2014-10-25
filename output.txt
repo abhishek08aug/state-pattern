@@ -1,0 +1,30 @@
+First enter a valid PIN and amount
+There should not be a card already inserted
+Cash in ATM: 0
+ATM is filled with cash successfully
+Cash in ATM: 5000
+Card inserted
+PIN rejected
+PIN accepted
+Invalid amount
+Valid amount
+Cash withdrawn: 1000
+Cash in ATM: 4000
+First enter a valid PIN and amount
+PIN accepted
+Invalid amount
+Valid amount
+Cash could not be filled while the ATM is being used
+Cash withdrawn: 4000
+Cash in ATM: 0
+Cash could not be filled while the ATM is being used
+Card ejected
+ATM is filled with cash successfully
+First enter a valid PIN and amount
+Card inserted
+PIN accepted
+Invalid amount
+Valid amount
+Cash withdrawn: 50000
+Cash in ATM: 0
+
